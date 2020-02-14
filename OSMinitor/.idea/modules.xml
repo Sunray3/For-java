@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CharacterString.iml" filepath="$PROJECT_DIR$/CharacterString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OSMinitor.iml" filepath="$PROJECT_DIR$/OSMinitor.iml" />
     </modules>
   </component>
 </project>
